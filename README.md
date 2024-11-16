@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm XorusOVH</h1>
 <h3 align="center">A passionate backend developer from Ukraine</h3>
 
-- 📫 Discord **@XorusOVH**
+- 📫 Discord **@danil.fialkovskiy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
